@@ -10,6 +10,6 @@
   "license": "BSD",
   "devDependencies": {
     "grunt": "~0.4.1",
-    "grunt-multiresize": "~0.2.1"
+    "grunt-multiresize": "~0.3.0"
   }
 }
